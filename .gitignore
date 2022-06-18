@@ -1,0 +1,4 @@
+node_modules/
+*.env
+1.readingNwriting
+2.Reading and Writing Async
